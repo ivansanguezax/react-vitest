@@ -31,6 +31,10 @@ This project provides an example of unit testing in a React application using Re
 - ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 - ![React Testing Library](https://img.shields.io/badge/React%20Testing%20Library-%23E33332.svg?style=flat)
 - ![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=flat&logo=typescript&logoColor=white)
+- ![Vitest](https://img.shields.io/badge/Vitest-%234FC08D.svg?style=flat)
+- ![Vite](https://img.shields.io/badge/Vite-%230646F0.svg?style=flat&logo=vite&logoColor=white)
+- ![npm](https://img.shields.io/badge/npm-%23CB3837.svg?style=flat&logo=npm&logoColor=white)
+
 
 
 ## 🌐 Socials:
