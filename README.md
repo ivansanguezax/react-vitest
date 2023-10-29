@@ -1,6 +1,6 @@
-# Unit Testing with React Testing Library and TypeScript
+# 🧪 Unit Testing with React Testing Library and TypeScript
 
-🧪 This project provides an example of unit testing in a React application using React Testing Library and TypeScript.
+This project provides an example of unit testing in a React application using React Testing Library and TypeScript. 👁️‍🗨️
 
 ## Overview
 
